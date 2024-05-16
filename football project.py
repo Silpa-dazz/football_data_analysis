@@ -27,7 +27,7 @@ newuefa.printSchema()
 from pyspark.sql.functions import udf
 from pyspark.sql.functions import split
 
-# oro yr home and verebteam chytha goal ?
+#every year home team other teams goals
 def yeargenerator(x):
     li=x.split('-')
     return li[0]
