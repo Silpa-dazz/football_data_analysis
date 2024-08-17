@@ -1,3 +1,2 @@
 # football_data_analysis
-# analysis: Draw a graph of away team and home team goal scoring in each year of quaterfinal ,semifinal and final. (plot it as 2 graph)
-# analysis: Teams that most appeard in quarterfinal,semifinal and final.
+# To visualize the goal-scoring patterns of home and away teams in quarterfinal, semifinal, and final matches, we'll create two separate graphs: one for home team goals and one for away team goals, each year. Additionally, we'll identify and highlight the teams that appeared most frequently in these stages.
